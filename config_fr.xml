@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>mymodule</name>
+    <displayName><![CDATA[This is my custom module]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Display a custom text on left Column]]></description>
+    <author><![CDATA[PrestaSafe]]></author>
+    <tab><![CDATA[]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
